@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CpuProfilingSample", "CpuProfilingSample\CpuProfilingSample.csproj", "{FB2364C2-C495-4CD7-8B20-85A569163D60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CpuProfilingSample", "CpuProfilingSample\CpuProfilingSample.csproj", "{FB2364C2-C495-4CD7-8B20-85A569163D60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "results", "results", "{16569A78-27ED-4C74-A8C5-6214127F8B9F}"
+	ProjectSection(SolutionItems) = preProject
+		Report20180531-1004.diagsession = Report20180531-1004.diagsession
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
